@@ -9,7 +9,7 @@
 <body>
     
     <?php
-        echo "AAAAAA";
+        echo "BBBBBBBB";
     ?>
 
 </body>
