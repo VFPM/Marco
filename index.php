@@ -9,7 +9,7 @@
 <body>
     
     <?php
-        echo "CCCCCCCCC";
+        echo "RAMA";
     ?>
 
 </body>
